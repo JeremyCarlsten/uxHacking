@@ -1,0 +1,57 @@
+{
+  "name": "grunt-uncss-angular-example",
+  "version": "0.1.0",
+  "description": "Yet another amazing AngularJS app",
+  "keywords": [
+    "angular"
+  ],
+  "homepage": "https://github.com/JeremyCarlsten/grunt-uncss-angular-example",
+  "bugs": "https://github.com/JeremyCarlsten/grunt-uncss-angular-example/issues",
+  "author": {
+    "name": "Jeremy Carlsten",
+    "email": "",
+    "url": "https://github.com/JeremyCarlsten"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JeremyCarlsten/grunt-uncss-angular-example.git"
+  },
+  "scripts": {
+    "test": "grunt --verbose"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "dependencies": {
+    "david": "^6.1.6"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-angular-templates": "~0.5.3",
+    "grunt-autoprefixer": "^3.0.0",
+    "grunt-bower-install": "^1.6.0",
+    "grunt-concurrent": "^1.0.0",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-connect": "^0.10.1",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-cssmin": "^0.12.2",
+    "grunt-contrib-htmlmin": "^0.4.0",
+    "grunt-contrib-imagemin": "^0.9.4",
+    "grunt-contrib-jasmine": "^0.8.2",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-newer": "^1.1.0",
+    "grunt-nginclude": "^0.4.1",
+    "grunt-ngmin": "0.0.3",
+    "grunt-rev": "~0.1.0",
+    "grunt-svgmin": "^2.0.1",
+    "grunt-uncss": "^0.4.2",
+    "grunt-usemin": "^3.0.0",
+    "jshint-stylish": "^1.0.1",
+    "load-grunt-tasks": "~3.1.0"
+  }
+}
